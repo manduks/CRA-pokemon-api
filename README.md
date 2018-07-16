@@ -1,9 +1,11 @@
-#Installing
+# Installing
+
 In the project directory, you can run:
 
 `yarn` or `npm i`
 
-#Running the project
+# Running the project
+
 In the project directory, you can run:
 
 `yarn start` or `npm start`
@@ -29,6 +31,7 @@ The build is minified and the filenames include the hashes.
 This implementation has included React redux integration, and an API client component that makes it easier to call any API.
 
 Stack
+
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [AntD](https://ant.design/)
